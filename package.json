@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "ganache": "^7.7.4",
+    "global": "^4.4.0",
+    "web3": "^1.8.2"
+  }
+}
